@@ -8,7 +8,7 @@
 </h1>
 
 
-## ℹ️ Information
+## ℹ️ Terms
    WOWEN is a registered trademark, but you are free to download the website template and use the scripts. 
 
 ```bash
@@ -18,8 +18,12 @@ cd wowen.se
 
    See the site live at https://www.wowen.se
 
-## 👋 Here I am 
+## 👋 Information
 
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
+I help evolving companies and people with product ownership, product/project management, digital design, 360 degrees strategic and digital marketing, customer success, production, web and app development. Turning high level strategy into hands on execution, with focus on growth. With a background in the e-commerce, SaaS/DevOps, publishing business and media, and with extensive marketing experience, I work at the intersection of business development, communication and technology. It’s not chaos magick 🔮 but kinda close.
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+If you need help with this you can reach me at emma@wowen.se or:
+
+[LinkedIn](https://www.linkedin.com/in/emmahager),
+[Instagram: @wowensays](https://www.instagram.com/wowensays/), 
+[Instagram: @theidealbeginning](https://www.instagram.com/theidealbeginning/).
