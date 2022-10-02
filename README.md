@@ -8,7 +8,7 @@
 </h1>
 
 
-# ℹ️ Information
+## ℹ️ Information
    WOWEN is a registered trademark, but you are free to download the website template and use the scripts. 
 
 ```bash
@@ -18,7 +18,7 @@ cd wowen.se
 
    See the site live at https//www.wowen.se
 
-## 👋
+## 👋 Here I am 
 
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
