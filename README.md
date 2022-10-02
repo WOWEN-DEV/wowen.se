@@ -8,7 +8,7 @@
 </h1>
 
 
-## ℹ️ Information
+ℹ️ Information
    WOWEN is a registered trademark, but you are free to download the website template and use the scripts. 
 
 ```bash
