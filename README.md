@@ -4,18 +4,17 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  WOWEN website – created by @hageremma
 </h1>
 
-## 🚀 Quick start
+[![JavaScript](https://api.netlify.com/api/v1/badges/be93b718-a6df-402a-b4a4-855ba186c97d/deploy-status)](https://app.netlify.com/sites/kubernetes-io-main-staging/deploys) [![GitHub release](https://img.shields.io/github/release/kubernetes/website.svg)](https://github.com/kubernetes/website/releases/latest)
 
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+## ℹ️ Information
+   WOWEN is a registered trademark, but you are free to download the website template use the scripts. 
 
     ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
+    git clone https://github.com/hageremma/wowen.se.git
+    cd wowen.se
     ```
 
 2.  **Start developing.**
