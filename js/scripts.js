@@ -22,8 +22,8 @@ window.onload = function() {
     'Behöver du hjälp är du ❤️-ligt välkommen att höra av dig till mig på <a href="mailto:emma%40wowen.se">emma@wowen.se</a>.',
     getCurrentTime(),  
     '🌱 /Emma Hager',
-    '<a target="_blank" href="https://www.linkedin.com/in/emmahager">LinkedIn</a>, <a target="_blank" href="https://www.instagram.com/wowensays/">Instagram (@wowensays)</a>, <a target="_blank" href="https://www.instagram.com/theidealbeginning/">Instagram (@theidealbeginning)</a>',
-    '<a target="_blank" href="https://github.com/hageremma">GitHub (@hageremma)</a>',
+    'LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/emmahager">@emmahager</a> / Instagram: <a target="_blank" href="https://www.instagram.com/wowensays/">@wowensays</a> / Instagram: <a target="_blank" href="https://www.instagram.com/theidealbeginning/">@theidealbeginning</a>',
+    'GitHub: <a target="_blank" href="https://github.com/hageremma">@hageremma</a>',
     'Vill du leka runt med den här sajtens kod? <a target="_blank" href="https://github.com/hageremma/wowen.se">Ladda ner på GitHub</a>.',
     'Ditt besök är helt anonymt, tummis! 👍 Läs gärna <a target="_blank" href="https://wowen.se/integritetspolicy/">Integritetspolicyn</a> för mer information.'
   ]

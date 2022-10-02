@@ -22,8 +22,8 @@ window.onload = function() {
     'If you need help with this you can reach me at <a href="mailto:emma%40wowen.se">emma@wowen.se</a>.',
     getCurrentTime(),
     '🌱 /Emma Hager',
-       '<a target="_blank" href="https://www.linkedin.com/in/emmahager">LinkedIn</a>, <a target="_blank" href="https://www.instagram.com/wowensays/">Instagram (@wowensays)</a>, <a target="_blank" href="https://www.instagram.com/theidealbeginning/">Instagram (@theidealbeginning)</a>',
-    '<a target="_blank" href="https://github.com/hageremma">GitHub (@hageremma)</a>',
+      'LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/emmahager">@emmahager</a> / Instagram: <a target="_blank" href="https://www.instagram.com/wowensays/">@wowensays</a> / Instagram: <a target="_blank" href="https://www.instagram.com/theidealbeginning/">@theidealbeginning</a>',
+    'GitHub: <a target="_blank" href="https://github.com/hageremma">@hageremma</a>',
     'Wanna play around with this site code? Go ahead: <a target="_blank" href="https://github.com/hageremma/wowen.se">Download on GitHub</a>.',
     'You are completely anonymous here, promise! 👍 Read the <a target="_blank" href="https://wowen.se/en/privacy/">Privacy Policy</a> for more information.'
   ]
