@@ -24,6 +24,4 @@ I help evolving companies and people with product ownership, product/project man
 
 If you need help with this you can reach me at emma@wowen.se or:
 
-[LinkedIn](https://www.linkedin.com/in/emmahager),
-[Instagram: @wowensays](https://www.instagram.com/wowensays/), 
-[Instagram: @theidealbeginning](https://www.instagram.com/theidealbeginning/).
+[LinkedIn](https://www.linkedin.com/in/emmahager) / [Instagram: @wowensays](https://www.instagram.com/wowensays/) / [Instagram: @theidealbeginning](https://www.instagram.com/theidealbeginning/).
