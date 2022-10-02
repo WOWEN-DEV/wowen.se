@@ -16,7 +16,7 @@ git clone https://github.com/hageremma/wowen.se.git
 cd wowen.se
 ```
 
-   See the site live at https//www.wowen.se
+   See the site live at https://www.wowen.se
 
 ## 👋 Here I am 
 
