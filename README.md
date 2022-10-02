@@ -7,15 +7,14 @@
   WOWEN website – created by @hageremma
 </h1>
 
-[![JavaScript](https://api.netlify.com/api/v1/badges/be93b718-a6df-402a-b4a4-855ba186c97d/deploy-status)](https://app.netlify.com/sites/kubernetes-io-main-staging/deploys) [![GitHub release](https://img.shields.io/github/release/kubernetes/website.svg)](https://github.com/kubernetes/website/releases/latest)
 
 ## ℹ️ Information
-   WOWEN is a registered trademark, but you are free to download the website template use the scripts. 
+   WOWEN is a registered trademark, but you are free to download the website template and use the scripts. 
 
-    ```shell
-    git clone https://github.com/hageremma/wowen.se.git
-    cd wowen.se
-    ```
+```bash
+git clone https://github.com/hageremma/wowen.se.git
+cd wowen.se
+```
 
 2.  **Start developing.**
 
