@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.wowen.se">
-    <img alt="WOWEN" src="https://wowen.se/img-master/wowen-logo-bl.svg" width="100%" />
+    <img alt="WOWEN" src="img-master/wowen-logo-bl.svg" width="100%" />
   </a>
 </p>
 <h1 align="center">
