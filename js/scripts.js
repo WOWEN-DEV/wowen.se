@@ -18,12 +18,12 @@ window.onload = function() {
   var messages = [
     '<img src="https://wowen.se/img-master/wowen.svg" width="100" height="100" alt="digital design strategisk marknadsföring webb apputveckling">',
     'Hej där 👋 English? <a href="https://wowen.se/en">This way 👉</a>.',
-    'Jag hjälper evolverande företag och människor med produktägande, digital design, 360 graders strategisk och digital marknadsföring, customer success, produktion, webb- och apputveckling. Är bra på att omvandla strategi på hög nivå till genomförande, med fokus på tillväxt. Med en bakgrund inom e-handel, SaaS/DevOps, förlagsverksamhet och media, och med lång erfarenhet av marknadsföring, arbetar jag i skärningspunkten mellan affärsutveckling, kommunikation och teknik. Det är inte kaosmagi 🔮 men ganska nära.',
+    'Jag hjälper evolverande företag och människor med produktägande, digital design, 360 graders strategisk och digital marknadsföring, customer success, produktion, webb- och apputveckling. Det är inte kaosmagi 🔮 men ganska nära.',
     'Behöver du hjälp är du ❤️-ligt välkommen att höra av dig till mig på <a href="mailto:emma%40wowen.se">emma@wowen.se</a>.',
     getCurrentTime(),  
     '🌱 /Emma Hager',
-    'LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/emmahager">@emmahager</a> / Instagram: <a target="_blank" href="https://www.instagram.com/wowensays/">@wowensays</a> / Instagram: <a target="_blank" href="https://www.instagram.com/theidealbeginning/">@theidealbeginning</a>',
-    'GitHub: <a target="_blank" href="https://github.com/hageremma">@hageremma</a>',
+    '<a target="_blank" href="https://www.linkedin.com/in/emmahager">LinkedIn</a> / <a target="_blank" href="https://github.com/hageremma">GitHub (@hageremma)</a>',
+    '🎹🎻 Jo, jag är en neo-klassisk kompositör också, lyssna här: <a target="_blank" href="https://www.instagram.com/theidealbeginning/">@theidealbeginning</a>',
     'Vill du leka runt med den här sajtens kod? <a target="_blank" href="https://github.com/hageremma/wowen.se">Ladda ner på GitHub</a>.',
     'Ditt besök är helt anonymt, tummis! 👍 Läs gärna <a target="_blank" href="https://wowen.se/integritetspolicy/">Integritetspolicyn</a> för mer information.'
   ]

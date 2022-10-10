@@ -18,12 +18,12 @@ window.onload = function() {
   var messages = [
     '<img src="https://wowen.se/img-master/wowen.svg" width="100" height="100" alt="digital design strategic marketing webdesign app development">',
     'Hey 👋 Svenska? <a href="https://wowen.se/">Gå hit 👉</a>.',
-    'I help evolving companies and people with product ownership, product/project management, digital design, 360 degrees strategic and digital marketing, customer success, production, web and app development. Turning high level strategy into hands on execution, with focus on growth. With a background in the e-commerce, SaaS/DevOps, publishing business and media, and with extensive marketing experience, I work at the intersection of business development, communication and technology. It’s not chaos magick 🔮 but kinda close.',
+    'I help evolving companies and people with product ownership, product/project management, digital design, 360 degrees strategic and digital marketing, customer success, production, web and app development. It’s not chaos magick 🔮 but kinda close.',
     'If you need help with this you can reach me at <a href="mailto:emma%40wowen.se">emma@wowen.se</a>.',
     getCurrentTime(),
     '🌱 /Emma Hager',
-      'LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/emmahager">@emmahager</a> / Instagram: <a target="_blank" href="https://www.instagram.com/wowensays/">@wowensays</a> / Instagram: <a target="_blank" href="https://www.instagram.com/theidealbeginning/">@theidealbeginning</a>',
-    'GitHub: <a target="_blank" href="https://github.com/hageremma">@hageremma</a>',
+      '<a target="_blank" href="https://www.linkedin.com/in/emmahager">LinkedIn</a> / <a target="_blank" href="https://github.com/hageremma">GitHub (@hageremma)</a>',
+    '🎹🎻 Yeah, I am a neo-classical composer too, listen here: <a target="_blank" href="https://www.instagram.com/theidealbeginning/">@theidealbeginning</a>',
     'Wanna play around with this site code? Go ahead: <a target="_blank" href="https://github.com/hageremma/wowen.se">Download on GitHub</a>.',
     'You are completely anonymous here, promise! 👍 Read the <a target="_blank" href="https://wowen.se/en/privacy/">Privacy Policy</a> for more information.'
   ]
