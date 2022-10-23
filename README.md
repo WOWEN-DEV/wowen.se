@@ -12,7 +12,7 @@
    WOWEN is a registered trademark, but you are free to download the website template and use the scripts. 
 
 ```bash
-git clone https://github.com/hageremma/wowen.se.git
+git clone https://github.com/WOWEN-DEV/wowen.se.git
 cd wowen.se
 ```
 
