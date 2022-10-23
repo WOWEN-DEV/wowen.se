@@ -16,7 +16,8 @@ git clone https://github.com/hageremma/wowen.se.git
 cd wowen.se
 ```
 
-   See the site live at https://www.wowen.se
+Demo: https://www.wowen.se/emmahager/
+
 
 ## 👋 Information
 
