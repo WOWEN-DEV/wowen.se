@@ -16,7 +16,7 @@ window.onload = function() {
   }
 
   var messages = [
-    '<img src="https://wowen.se/img-master/wowen.svg" width="100" height="100" alt="digital design strategisk marknadsföring webb apputveckling">',
+    '<img src="INSERT IMAGE URL HERE" width="100" height="100" alt="digital design strategisk marknadsföring webb apputveckling">',
     'Hej där 👋 English? <a href="https://wowen.se/en">This way 👉</a>.',
     'Jag hjälper evolverande företag och människor med produktägande, digital design, 360 graders strategisk och digital marknadsföring, customer success, produktion, webb- och apputveckling. Det är inte kaosmagi 🔮 men ganska nära.',
     'Behöver du hjälp är du ❤️-ligt välkommen att höra av dig till mig på <a href="mailto:emma%40wowen.se">emma@wowen.se</a>.',
